@@ -1,0 +1,1668 @@
+[
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><span style=\"background-color:transparent; color:#000000\">Vermutlich denken Sie bei empirischen Methoden für die Sprachwissenschaft vor allem an die Nutzung von Korpora, über die Sie ja auch in diesem Tutorial bereits sehr viel gelernt haben. </span><strong>Korpusstudien</strong><span style=\"background-color:transparent; color:#000000\"> können sicherlich als die verbreitetste empirische Methode innerhalb der Sprachwissenschaft gelten, allerdings sind sie keineswegs die einzige Methode. Eine weitere Möglichkeit ist es, mit Hilfe von Fragebögen, die von Sprecher*innen einer Sprache ausgefüllt werden, etwas über deren Sprachgebrauch zu erfahren.</span></p>",
+    "_id": "607838e42fc4513410c0acf7",
+    "_parentId": "607838d12fc4513410c0acf6",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60783b7a2fc4513410c0acfb",
+    "_parentId": "607838d12fc4513410c0acf6",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/de/assets/8230d0d0073d44b73a9fe84848de260008e2a440.jpg",
+      "small": "course/de/assets/8230d0d0073d44b73a9fe84848de260008e2a440.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><span style=\"background-color:transparent; color:#000000\">Solche </span><strong>Fragebogenstudien</strong><span style=\"background-color:transparent; color:#000000\"> könnten Ihnen vielleicht aus der Sozialforschung bekannt sein. Doch auch in der Sprachwissenschaft erfreuen sie sich für bestimmte wissenschaftliche Fragestellungen und Untersuchungszwecke durchaus großer Beliebtheit. Ihre Anwendung ist dabei allerdings keineswegs auf Einflüsse der modernen Sozialforschung auf die Sprachwissenschaft zu verstehen: Fragebogenstudien sind kein ‘neues’ Phänomen.</span></p>",
+    "_id": "60783bfb2fc4513410c0ad00",
+    "_parentId": "60783bf02fc4513410c0acff",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60783c162fc4513410c0ad01",
+    "_parentId": "60783bf02fc4513410c0acff",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/de/assets/78ee79694a921a31ce425a6097a384f1d8da9edf.jpg",
+      "small": "course/de/assets/78ee79694a921a31ce425a6097a384f1d8da9edf.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Geschichtliches",
+    "displayTitle": "Geschichtliches",
+    "body": "<p><span style=\"background-color:transparent; color:#000000\">Schon der Sprachwissenschaftler </span><strong>Georg Wenker (1852-1911)</strong><span style=\"background-color:transparent; color:#000000\"> hat mit Hilfe der nach ihm genannten </span><em>Wenkerbögen</em><span style=\"background-color:transparent; color:#000000\"> oder </span><em>Wenker-Fragebögen</em><span style=\"background-color:transparent; color:#000000\"> die regionale Verteilung lautlicher Varianten im Deutschen Reich untersucht und kartiert, indem er bestimmte Sätze von Volksschullehrern über das gesamte Deutsche Reich hinweg ausfüllen ließ. Der so entstandene </span><em>Sprachatlas des Deutschen Reichs</em><span style=\"background-color:transparent; color:#000000\"> ist heute über das in Marburg beheimatete </span><a href=\"https://www.regionalsprache.de/\" style=\"text-decoration:none;\"><u>Forschungszentrum Deutscher Sprachatlas</u></a><span style=\"background-color:transparent; color:#000000\"> online einsehbar. Fragebogenstudien waren also schon im 19. Jahrhundert fester Bestandteil des Spektrums an empirischen Methoden der Sprachwissenschaft, lange bevor es maschinenlesbare Korpora gab.</span></p>",
+    "_id": "60783d142fc4513410c0ad06",
+    "_parentId": "60783d032fc4513410c0ad05",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60783d392fc4513410c0ad07",
+    "_parentId": "60783d032fc4513410c0ad05",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/de/assets/0b22ebd6cd40632cb8131b359a13a3455b402bbf.jpg",
+      "small": "course/de/assets/0b22ebd6cd40632cb8131b359a13a3455b402bbf.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><span style=\"color:rgb(0, 0, 0)\">\"eine mehr oder weniger standardisierte Zusammenstellung von Fragen, welche Personen zur Beantwortung vorgelegt werden mit dem Ziel, deren Antworten zur Überprüfung der den Fragen zugrunde liegenden theoretischen Konzepte und Zusammenhänge zu verwenden.\"</span></p>",
+    "_id": "607875c26778e9176cd0710e",
+    "_parentId": "607875a36778e9176cd0710d",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "607876466778e9176cd07111",
+    "_parentId": "607875a36778e9176cd0710d",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 30
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/de/assets/aded8a0a44e67d184a5271961cc32bd8cd98f8c5.jpg",
+      "small": "course/de/assets/aded8a0a44e67d184a5271961cc32bd8cd98f8c5.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><span style=\"background-color:transparent; color:#000000\">Empirische Methode ist nicht gleich empirische Methode. Das gilt auch für Fragebogenstudien. Wie in anderen Methoden, z.B. der Korpuslinguistik oder auch Experimenten, unterscheidet man </span><strong>qualitative</strong><span style=\"background-color:transparent; color:#000000\"> Ansätze und </span><strong>quantitative</strong><span style=\"background-color:transparent; color:#000000\"> Ansätze. Diese Unterscheidung ist wichtig, denn je nachdem, welchen Ansatz man verfolgt, ergibt sich eine andere Gestaltung eines Fragebogens - zu der wir dann im nächsten Abschnitt kommen.</span></p>",
+    "_id": "607b00b9b952de1b2419439b",
+    "_parentId": "607b00b4b952de1b2419439a",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "607b01cdb952de1b241943a6",
+    "_parentId": "607b01c3b952de1b241943a5",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/de/assets/69681ae9c784f1dba242e933e94c43d26d8861c8.jpg",
+      "small": "course/de/assets/69681ae9c784f1dba242e933e94c43d26d8861c8.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><span style=\"background-color:transparent; color:#000000\">Ein Beispiel für eine </span><strong>qualitative</strong><span style=\"background-color:transparent; color:#000000\"> Fragebogenstudie ist ein </span><strong>offenes Interview</strong><span style=\"background-color:transparent; color:#000000\"> (auch: offene oder </span><strong>explorative Befragung</strong><span style=\"background-color:transparent; color:#000000\">). Dort bekommen die Befragten i.d.R. keine besonderen Vorgaben, nach denen sie antworten müssen, sie können also gewissermaßen ‘frei von der Leber weg’ auf die Fragen der Interviewerin antworten. Ein offenes Interview ist also </span><strong>wenig standardisiert</strong><span style=\"background-color:transparent; color:#000000\">: Es gibt keine vorgegebenen Antwortkategorien und die Befragten können ihre Antworten und Gedanken frei formulieren.</span></p>",
+    "_id": "607b020eb952de1b241943ac",
+    "_parentId": "607b01c3b952de1b241943a5",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p dir=\"ltr\"><span style=\"background-color:transparent; color:#000000\">Ein typisches Anwendungsgebiet für ein offenes Interview ist der Gebrauch von </span><strong>Dialekten</strong><span style=\"background-color:transparent; color:#000000\">. So könnten Sie etwa folgende Fragen stellen:</span></p><ul><li dir=\"ltr\"><p dir=\"ltr\"><em>Welche Dialekte sprechen Sie in Ihrem Alltag?</em></p></li><li dir=\"ltr\"><p dir=\"ltr\"><em>Gibt es besondere Dialekte, die Sie innerhalb Ihrer Familie, aber nicht in Ihrem sonstigen Alltag (z.B. im Beruf) sprechen?</em></p></li><li dir=\"ltr\"><p dir=\"ltr\"><em>Wann würden Sie eher Dialekt sprechen und wann nicht?</em></p></li><li dir=\"ltr\"><p dir=\"ltr\"><em>Welche Dialekte des Deutschen empfinden Sie als ‘schön’, welche als eher ‘unschön’?</em></p></li></ul><p dir=\"ltr\"><span style=\"background-color:transparent; color:#000000\">Dass ein offenes Interview wenig standardisiert ist, bedeutet nicht, dass es völlig unstrukturiert ablaufen muss. So kann man qualitative Fragebogenstudien in </span><strong>wenig strukturierte</strong><span style=\"background-color:transparent; color:#000000\"> und </span><strong>teilstrukturierte Interviews</strong><span style=\"background-color:transparent; color:#000000\"> unterteilen (Hippler &amp; Schwarz 1996). Wenig strukturierte Interviews geben nicht nur den Befragten, sondern auch der Interviewerin keine festen Vorgaben, insbesondere was die Reihenfolge der zu stellenden Fragen angeht. Auch ist es möglich, die Fragen spontan zu formulieren und nicht feste Formulierungen abzulesen. Bei teilstrukturierten Interviews ist das natürlich anders. Hier greift man in der Regel auf vorformulierte Fragen zurück, die in einer zuvor durchdachten Reihenfolge gestellt werden, wobei diese Reihenfolge nicht starr eingehalten werden muss, sondern auch spontan variiert werden kann.</span></p>",
+    "_id": "607b0253b952de1b241943ae",
+    "_parentId": "607b024eb952de1b241943ad",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p dir=\"ltr\"><span style=\"background-color:transparent; color:#000000\">Wenn man sich für ein offenes Interview entscheidet, kann es aber durchaus nicht schaden, einer mehr oder weniger festen </span><strong>Reihenfolge der Fragen</strong><span style=\"background-color:transparent; color:#000000\"> zu folgen. Es ist durchaus sinnvoll, den Befragten zu Beginn des Interviews zunächst eine ‘Aufwärmphase’ anzubieten, um sich in der oftmals ungewohnten Interviewsituation zu akklimatisieren. Das kann ein kurzer ‘Small Talk’ sein, aber auch einige unverbindliche Fragen, die langsam auf das eigentliche Thema des Interviews hinführen.</span></p><ul><li dir=\"ltr\"><p dir=\"ltr\"><em>Haben Sie gut zu uns gefunden?</em></p></li><li dir=\"ltr\"><p dir=\"ltr\"><em>Nehmen Sie das erste Mal an einer linguistischen Befragung teil?</em></p></li><li dir=\"ltr\"><p dir=\"ltr\"><em>Wissen Sie, was ein Dialekt ist?</em></p></li></ul><p dir=\"ltr\"><span style=\"background-color:transparent; color:#000000\">Wichtig ist in jedem Fall, dass Sie die wesentlichen Fragen, auf die Sie sich Antworten erhoffen, nicht direkt zu Beginn stellen. Auch wenn Sie in einem Interview mehrere Themen bearbeiten möchten, empfiehlt es sich, zu Beginn eines neuen Themas nicht direkt ‘mit der Tür ins Haus zu fallen’, sondern mit einigen unverbindlichen Fragen den Befragten eine Art ‘Pufferzone’ anzubieten, damit sie ihr Wissen über das neue Thema aktivieren können.</span></p>",
+    "_id": "607b257d8ab6f3325006966f",
+    "_parentId": "607b25728ab6f3325006966e",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><span style=\"background-color:transparent; color:#000000\">Sie können sich sicher vorstellen, dass offene Interviews nicht gerade leicht auszuwerten sind. Die Antwortkategorien, die die Befragten spontan entwickeln, können sich von Person zu Person sehr stark unterscheiden. Dies erschwert einen gezielten Vergleich zwischen den Befragten. Deshalb ist es in vielen Fällen sinnvoll, auf eine stärker standardisierte Form von Fragebogenstudien zurückzugreifen. Damit sind wir bei einem </span><strong>quantitativen Ansatz</strong><span style=\"background-color:transparent; color:#000000\"> angekommen.</span></p>",
+    "_id": "607b26118ab6f33250069676",
+    "_parentId": "607b260c8ab6f33250069675",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><span style=\"background-color:transparent; color:#000000\">Quantitative Fragebogenstudien sind </span><strong>stark strukturiert</strong><span style=\"background-color:transparent; color:#000000\">. Das müssen sie auch sein, denn wenn man eine große Menge von Befragten erreichen und die erzielten Ergebnisse sinnvoll vergleichen und vielleicht sogar statistisch auswerten möchte, braucht man ein einheitliches Vorgehen bei der Befragung.</span></p>",
+    "_id": "607b26598ab6f33250069679",
+    "_parentId": "607b262a8ab6f33250069678",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><span style=\"background-color:transparent; color:#000000\">Bei quantitativen Fragebogenstudien ist der Fragebogen so aufgebaut, dass sowohl die </span><strong>Fragen</strong><span style=\"background-color:transparent; color:#000000\"> als auch die </span><strong>Antwortmöglichkeiten feststehen</strong><span style=\"background-color:transparent; color:#000000\">. Eigene Gedanken der Befragten, die darüber hinausreichen, können und sollen also nicht erfasst werden. Es ist ebenso nicht vorgesehen, dass es eine über diese Vorgaben des Fragebogens hinausreichende Interaktion zwischen den Befragten und der interviewenden Person gibt. Das hat einen einfachen Grund: Es besteht nämlich die Gefahr, dass die Interviewerin das Antwortverhalten der Befragten unbewusst steuert.</span></p>",
+    "_id": "607b27388ab6f33250069681",
+    "_parentId": "607b27288ab6f3325006967f",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><span style=\"background-color:transparent; color:#000000\">Stellen Sie sich vor, Sie führen eine Befragung zu </span><strong>gendergerechter Sprache</strong><span style=\"background-color:transparent; color:#000000\"> durch, einem vor allem außerhalb der Sprachwissenschaft sehr kontrovers diskutierten Thema. Wenn Sie sich, bevor Sie der befragten Person den Fragebogen aushändigen, mit ihr über dieses Thema unterhalten, vielleicht sogar Ihre persönliche Meinung zu gendergerechter Sprache kundtun oder Argumente, die&nbsp; für und gegen sie vorgebracht werden, diskutieren, werden die Antworten der befragten Person möglicherweise dadurch beeinflusst.</span></p>",
+    "_id": "607b27898ab6f33250069688",
+    "_parentId": "607b27818ab6f33250069687",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><span style=\"background-color:transparent; color:#000000\">Eine unbewusste Steuerung des Antwortverhaltens kann jedoch nicht nur durch die Interaktion zwischen den Befragten und der Interviewerin stattfinden, sondern auch durch den Fragebogen selbst. Die Fragen müssen also so gestaltet sein, dass sie die Befragen </span><strong>nicht unbewusst manipulieren</strong><span style=\"background-color:transparent; color:#000000\"> und ihr Antwortverhalten in eine bestimmte Richtung lenken. Das fängt schon bei der Formulierung der Fragen an. Sie können sich sicher vorstellen, dass die Frage, ob die Befragten gendergerechte Sprache als einen ‘ideologischen Eingriff in die Sprache’ betrachten, anders beantwortet wird, wenn Sie Formulierungen wie </span><em>Gendersprech</em><span style=\"background-color:transparent; color:#000000\"> verwenden, als wenn sie von </span><em>geschlechtsneutraler Sprache</em><span style=\"background-color:transparent; color:#000000\"> sprechen. (Und vielleicht sollten Sie auch das Wort </span><em>Ideologie</em><span style=\"background-color:transparent; color:#000000\"> bzw. </span><em>ideologisch</em><span style=\"background-color:transparent; color:#000000\"> vermeiden…)</span></p>",
+    "_id": "607b27c88ab6f3325006968f",
+    "_parentId": "607b27c28ab6f3325006968e",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p dir=\"ltr\"><span style=\"background-color:transparent; color:#000000\">Wenn Sie sich nun entschieden haben, ob sie ein offenes Interview durchführen oder einen eher stark strukturierten Fragebogen verwenden möchten, müssen Sie natürlich geeignete Fragen formulieren. Je nachdem, ob Sie qualitativ oder quantitativ arbeiten möchten, stehen Ihnen unterschiedliche </span><strong>Fragetypen</strong><span style=\"background-color:transparent; color:#000000\"> zur Verfügung.</span></p><p dir=\"ltr\"><span style=\"background-color:transparent; color:#000000\">Ein offenes Interview besteht </span><span style=\"background-color:transparent; color:#000000\">–</span><span style=\"background-color:transparent; color:#000000\"> das dürfte Sie nicht überraschen </span><span style=\"background-color:transparent; color:#000000\">–</span><span style=\"background-color:transparent; color:#000000\"> aus </span><strong>offenen Fragen</strong><span style=\"background-color:transparent; color:#000000\">. Wenn wir bei unserem Dialekt-Beispiel bleiben, könnten das noch Fragen wie die folgenden sein:</span></p><ul><li dir=\"ltr\"><p dir=\"ltr\"><em>Was verbinden Sie mit dem bairischen Dialekt?</em></p></li><li dir=\"ltr\"><p dir=\"ltr\"><em>In welchen Situationen halten Sie das Sprechen für Dialekt für angemessen, in welchen nicht?</em></p></li><li dir=\"ltr\"><p dir=\"ltr\"><em>Was tun Sie, wenn jemand Sie in einem Dialekt anspricht, den Sie nicht verstehen?</em></p></li><li dir=\"ltr\"><p dir=\"ltr\"><em>Wie schätzen Sie die aktuelle Vielfalt der deutschen Dialekte im Gegensatz zu früheren Zeiten ein?</em></p></li></ul><p><span style=\"background-color:transparent; color:#000000\">Wenn Sie eine eher teilstrukturierte oder stark strukturierte Befragung durchführen, werden Sie in der Regel ausschließlich </span><strong>geschlossene Fragen</strong><span style=\"background-color:transparent; color:#000000\"> verwenden. Man kann u.a. die folgenden vier Typen von geschlossenen Fragen unterscheiden (Schlobinski 1996).</span></p>",
+    "_id": "607b29d28ab6f33250069693",
+    "_parentId": "607b29af8ab6f33250069692",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>Zu jedem Fragetyp finden Sie im Folgenden ein typisches Beispiel.</p>",
+    "_id": "607b29fa8ab6f33250069695",
+    "_parentId": "607b29f18ab6f33250069694",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Alternativfrage",
+        "body": "<p><em>Sollte das Sprechen von Dialekt in öffentlichen Berufen (Polizei, Schule, Ämter) untersagt werden?</em></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Direkte Frage",
+        "body": "<p><em>Nennen Sie alle Varianten einer Grußformel für eine Verabschiedung, die Sie für den deutschen Sprachraum kennen.</em></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Indirekte Frage",
+        "body": "<p><em>Viele Menschen finden, das Sächsische ist kein besonders schöner Dialekt. Finden Sie das auch?</em></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Schätzfrage",
+        "body": "<p><em>Wie viel Prozent der Kinder in schwäbischen Schulen sprechen Ihrer Einschätzung nach im Unterricht Dialekt?</em></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><span style=\"background-color:transparent; color:#000000\">Es ist soweit: Sie haben sich für einen bestimmten Typ einer Fragebogenstudie (qualitativ oder quantitativ; wenig strukturiert, teilstrukturiert oder strukturiert) entschieden und einen Fragebogen mit womöglich unterschiedlichsten Fragetypen entworfen. Jetzt müssen Sie ihn nur noch auf Ihre Testpersonen ‘loslassen’, Sie müssen die Befragung ganz konkret durchführen. Dafür stehen Ihnen unterschiedliche </span><strong>Befragungsmodi</strong><span style=\"background-color:transparent; color:#000000\"> zur Verfügung, die sich nach dem Medium, über das Sie an ihre Testpersonen herantreten, richtet, aber auch danach, ob Sie ihnen persönlich gegenübertreten oder nicht.</span></p>",
+    "_id": "607b2b708ab6f3325006969c",
+    "_parentId": "607b2b538ab6f3325006969b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><span style=\"background-color:transparent; color:#000000\">Man kann grob </span><strong>vier</strong><span style=\"background-color:transparent; color:#000000\"> Befragungsmodi unterscheiden (Hippler &amp; Schwarz 1996):</span></p>",
+    "_id": "607b2b888ab6f3325006969e",
+    "_parentId": "607b2b808ab6f3325006969d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Persönlich-mündliche Befragung",
+        "_ariaLevel": 0,
+        "body": "",
+        "_graphic": {
+          "src": "course/de/assets/4f5f18af12e824194cb4debd22884e2c8c7c1f62.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Persönlich-mündliche Befragung"
+      },
+      {
+        "title": "Telefonische Befragung",
+        "_ariaLevel": 0,
+        "body": "",
+        "_graphic": {
+          "src": "course/de/assets/c395db9158d117be198f108879f9f496d173b8dd.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Telefonische Befragung"
+      },
+      {
+        "title": "Schriftliche Befragung",
+        "_ariaLevel": 0,
+        "body": "",
+        "_graphic": {
+          "src": "course/de/assets/1831dc45f6b0fcc897c38125ec9147d6624f7fe0.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Schriftliche Befragung"
+      },
+      {
+        "title": "Web-basierte Befragung",
+        "_ariaLevel": 0,
+        "body": "",
+        "_graphic": {
+          "src": "course/de/assets/13995ae8ff56aadb4e2b322a79b0d6f00e16cf66.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Web-basierte Befragung"
+      }
+    ]
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p dir=\"ltr\"><span style=\"background-color:transparent; color:#000000\">Sie ahnen es vielleicht schon: In der Regel werden Sie Ihre Testpersonen wohl kaum in der Fußgängerzone ansprechen, sie wohl auch nicht telefonisch kontaktieren und sicher auch nicht mit ausgedruckten Fragebögen konfrontieren. Der wichtigste Befragungsmodus ist demnach sicher die </span><strong>web-basierte Befragung</strong><span style=\"background-color:transparent; color:#000000\">, weshalb wir uns auf diese konzentrieren können.</span></p><p><span style=\"background-color:transparent; color:#000000\">Web-basierte Fragebögen anzulegen, ist heutzutage kein schwieriges Unterfangen mehr. Dienstleister wie </span><a href=\"https://www.soscisurvey.de/\" style=\"text-decoration:none;\"><u>soscisurvey.de</u></a><span style=\"background-color:transparent; color:#000000\"> oder die Google-Anwendung </span><a href=\"https://docs.google.com/forms\" style=\"text-decoration:none;\"><u>Google Forms</u></a><span style=\"background-color:transparent; color:#000000\"> bieten Ihnen die Möglichkeit, schnell einen Fragebogen zu erstellen und zu veröffentlichen. Allerdings gibt es dabei einige Dinge zu beachten.</span></p>",
+    "_id": "607b2d928ab6f332500696a8",
+    "_parentId": "607b2d8c8ab6f332500696a7",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<ul><li dir=\"ltr\"><p dir=\"ltr\"><span style=\"background-color:transparent; color:#000000\">Sie haben </span><strong>kaum Kontrolle über Auswahl der Befragten</strong><span style=\"background-color:transparent; color:#000000\">. Wenn Sie, wie wir es eben begonnen haben, eine Fragebogenstudie zu deutschen Dialekten durchführen möchten, werden Sie vermutlich ausschließlich Menschen befragen wollen, die Deutsch als Muttersprache sprechen. Sie können bei einer web-basierten Befragung jedoch nicht überprüfen, ob daran auch wirklich nur solche Personen teilnehmen.</span></p></li><li dir=\"ltr\"><p dir=\"ltr\"><span style=\"background-color:transparent; color:#000000\">Sie haben kaum Kontrolle über </span><strong>mehrfaches Ausfüllen des Fragebogens</strong><span style=\"background-color:transparent; color:#000000\"> durch eine Person. Wenn Sie an einer Bundestagswahl oder einer anderen Wahl teilnehmen, können Sie nur einmal Ihre Stimme abgeben. Bei einer web-basierten Umfrage jedoch ist es prinzipiell möglich, dass ein und dieselbe Person den Fragebogen mehrmals ausfüllt. Strategien, die das verhindern sollen, sind meist nicht sehr wirkungsvoll:</span></p><ul><li dir=\"ltr\"><p dir=\"ltr\"><span style=\"background-color:transparent; color:#000000\">Eine Umfrage, bei der Cookies gespeichert werden, kann wiederholt werden, wenn die Cookies gelöscht werden.</span></p></li><li dir=\"ltr\"><p dir=\"ltr\"><span style=\"background-color:transparent; color:#000000\">Wenn man für die Umfrage einen eigenen Account anlegen muss (z.B. bei Google), erhöht das die Hemmschwelle, überhaupt erst teilzunehmen. Wer aus Datenschutzgründen keinen Account anlegen möchte, wird zudem ausgeschlossen. Außerdem könnte eine Person ja auch mehrere Accounts anlegen.</span></p></li><li dir=\"ltr\"><p dir=\"ltr\"><span style=\"background-color:transparent; color:#000000\">Sie können die E-Mail-Adressen der Testpersonen abfragen und wiederholt eingegebene Datensätze anhand dieser E-Mail-Adresse löschen. Dies verlangt von den Testpersonen allerdings sensible persönliche Daten, die nur ungern herausgegeben werden.</span></p></li><li dir=\"ltr\"><p dir=\"ltr\"><span style=\"background-color:transparent; color:#000000\">Sie können die Umfrage durch Passwörter sichern, allerdings müssen Sie auch diese den Testpersonen zukommen lassen, wofür Sie wieder deren persönliche Daten (z.B. die E-Mail-Adresse oder eine Postanschrift) benötigen.</span></p></li></ul></li></ul>",
+    "_id": "607b2df38ab6f332500696aa",
+    "_parentId": "607b2dbd8ab6f332500696a9",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "1",
+    "displayTitle": "1",
+    "body": "<p><span style=\"background-color:transparent; color:#000000\">Ein offenes Interview ist eine Form einer…</span></p>",
+    "_id": "607b2ee08ab6f332500696ae",
+    "_parentId": "607b2ec68ab6f332500696ad",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "quantitativen Fragebogenstudie",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "qualitativen Fragebogenstudie",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 100,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "Senden",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "Neuer Versuch",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "Richtige Antwort anzeigen",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "2",
+    "displayTitle": "2",
+    "body": "<p><span style=\"background-color:transparent; color:#000000\">Offene Interviews sind in der Regel…</span></p>",
+    "_id": "607b2f958ab6f332500696b0",
+    "_parentId": "607b2f8f8ab6f332500696af",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "stark strukturiert",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "wenig strukturiert",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "teilstrukturiert",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "Senden",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "Neuer Versuch",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "Richtige Antwort anzeigen",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "3",
+    "displayTitle": "3",
+    "body": "<p><span style=\"background-color:transparent; color:#000000\">Die für den Untersuchungsgegenstand einer Fragebogenstudie wesentlichen Fragen sollten … des Fragebogens gestellt werden.</span></p>",
+    "_id": "607b2ff88ab6f332500696b2",
+    "_parentId": "607b2ff08ab6f332500696b1",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "direkt zu Beginn",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "eher im Mittelteil",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "ganz am Ende",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "Senden",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "Neuer Versuch",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "Richtige Antwort anzeigen",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "4",
+    "displayTitle": "4",
+    "body": "<p><span style=\"background-color:transparent; color:#000000\">Bei quantitativen Fragebogenstudien sind die Antwortmöglichkeiten...</span></p>",
+    "_id": "607b30408ab6f332500696b4",
+    "_parentId": "607b303b8ab6f332500696b3",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "immer vorgegeben",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "immer offen",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "Senden",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "Neuer Versuch",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "Richtige Antwort anzeigen",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "matching",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "5",
+    "displayTitle": "5",
+    "body": "<p><span style=\"background-color:transparent; color:#000000\">Ordnen Sie die folgenden Beispielfragen den angegebenen Fragetypen zu.</span></p>",
+    "_id": "607b30678ab6f332500696b6",
+    "_parentId": "607b30628ab6f332500696b5",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldResetAllAnswers": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "placeholder": "Bitte wählen Sie aus.",
+    "_items": [
+      {
+        "text": "Sollte die Verwendung gendergerechter Sprache in der öffentlichen Verwaltung (z.B. im Schriftverkehr von Behörden) verpflichtend werden?",
+        "_options": [
+          {
+            "text": "Alternativfrage",
+            "_isCorrect": true
+          },
+          {
+            "text": "Direkte Frage",
+            "_isCorrect": false
+          },
+          {
+            "text": "Indirekte Frage",
+            "_isCorrect": false
+          },
+          {
+            "text": "Schätzfrage",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Nennen Sie alle Varianten, die Sie zur Realisierung gendergerechter Personenbezeichnungen (statt eines generischen Maskulinums) kennen.",
+        "_options": [
+          {
+            "text": "Schätzfrage",
+            "_isCorrect": false
+          },
+          {
+            "text": "Alternativfrage",
+            "_isCorrect": false
+          },
+          {
+            "text": "Direkte Frage",
+            "_isCorrect": true
+          },
+          {
+            "text": "Indirekte Frage",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Viele Menschen stehen gendergerechter Sprache kritisch gegenüber. Sie auch?",
+        "_options": [
+          {
+            "text": "Direkte Frage",
+            "_isCorrect": false
+          },
+          {
+            "text": "Indirekte Frage",
+            "_isCorrect": true
+          },
+          {
+            "text": "Alternativfrage",
+            "_isCorrect": false
+          },
+          {
+            "text": "Schätzfrage",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Was glauben Sie: Wie hoch ist der Anteil gendergerechter Personenbezeichnungen in einem Korpus, das aus Internettexten der letzten fünf Jahre besteht?",
+        "_options": [
+          {
+            "text": "Alternativfrage",
+            "_isCorrect": false
+          },
+          {
+            "text": "Indirekte Frage",
+            "_isCorrect": false
+          },
+          {
+            "text": "Direkte Frage",
+            "_isCorrect": false
+          },
+          {
+            "text": "Schätzfrage",
+            "_isCorrect": true
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "Senden",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "Neuer Versuch",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "Richtige Antwort anzeigen",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "6",
+    "displayTitle": "6",
+    "body": "<p><span style=\"background-color:transparent; color:#000000\">Was zählt nicht zu den Befragungsmodi von Fragebogenstudien?</span></p>",
+    "_id": "607b315c8ab6f332500696b8",
+    "_parentId": "607b31578ab6f332500696b7",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "persönlich-mündliche Befragung",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "telefonische Befragung",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "visuelle Befragung",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "web-basierte Befragung",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "Senden",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "Neuer Versuch",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "Richtige Antwort anzeigen",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "607c52c65d690236b414c96b",
+    "_parentId": "607875ea6778e9176cd0710f",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/de/assets/8976897471ab42c89d8edc809cd8fe818ef5e8c0.jpg",
+      "small": "course/de/assets/8976897471ab42c89d8edc809cd8fe818ef5e8c0.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><span style=\"background-color:transparent; color:#000000\">An dieser Definition sollte Ihnen eines auffallen: Um eine Fragebogenstudie durchzuführen, benötigen wir zunächst einmal eine </span><strong>Fragestellung</strong><span style=\"background-color:transparent; color:#000000\"> und auch eine dazugehörige </span><strong>Hypothese</strong><span style=\"background-color:transparent; color:#000000\">. Ein Fragebogen soll dann dabei helfen, eine Antwort auf die zuvor formulierte Fragestellung zu finden und die Hypothese zu überprüfen.</span></p><p dir=\"ltr\"><span style=\"background-color:transparent; color:#000000\">Damit ist auch schon die in der Definition als formulierte “Überprüfung der [...] theoretischen Konzepte und Zusammenhänge” angesprochen. Die Beantwortung einer Fragestellung und die Überprüfung einer Hypothese können letztlich dazu führen, eine linguistische </span><strong>Theorie</strong><span style=\"background-color:transparent; color:#000000\"> (in Teilen) zu untermauern oder zu widerlegen.</span></p><p dir=\"ltr\"><span style=\"background-color:transparent; color:#000000\">So viel zu den theoretischen Grundlagen. Was aber muss man sich nun genau unter einer “mehr oder weniger standardisierte[n] Zusammenstellung von Fragen” vorstellen?</span></p>",
+    "_id": "607d93ddd65e4d33d040c724",
+    "_parentId": "607875ea6778e9176cd0710f",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "607d9762d65e4d33d040c729",
+    "_parentId": "607b27818ab6f33250069687",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/de/assets/15010f2ff66b2e46a9162cd31338cacfb7f70798.jpg",
+      "small": "course/de/assets/15010f2ff66b2e46a9162cd31338cacfb7f70798.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "607d9773d65e4d33d040c72d",
+    "_parentId": "607b27288ab6f3325006967f",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/de/assets/d40e9f7548d41997aff0870358e0e7571e727371.jpg",
+      "small": "course/de/assets/d40e9f7548d41997aff0870358e0e7571e727371.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "607d9783d65e4d33d040c731",
+    "_parentId": "607b262a8ab6f33250069678",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/de/assets/be0bbf87a817008a1ccbcb6b32ea04a61265e39f.jpg",
+      "small": "course/de/assets/be0bbf87a817008a1ccbcb6b32ea04a61265e39f.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "607d97ddd65e4d33d040c736",
+    "_parentId": "607b00b4b952de1b2419439a",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/de/assets/ba3da1a68fa5e876c2dda804ae157db24c606e60.jpg",
+      "small": "course/de/assets/ba3da1a68fa5e876c2dda804ae157db24c606e60.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "607d97eed65e4d33d040c73a",
+    "_parentId": "607b024eb952de1b241943ad",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/de/assets/e0162b05ede6ca7298a924a4dc4dd1beedd5521d.jpg",
+      "small": "course/de/assets/e0162b05ede6ca7298a924a4dc4dd1beedd5521d.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "607d9809d65e4d33d040c73e",
+    "_parentId": "607b260c8ab6f33250069675",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/de/assets/cfa1f873562ad9f8542c44266346d055be332af3.jpg",
+      "small": "course/de/assets/cfa1f873562ad9f8542c44266346d055be332af3.jpg",
+      "attribution": ""
+    }
+  }
+]
